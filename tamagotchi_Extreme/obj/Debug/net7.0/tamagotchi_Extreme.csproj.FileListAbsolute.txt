@@ -1,0 +1,4 @@
+C:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\tamagotchi_Extreme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\tamagotchi_Extreme.AssemblyInfoInputs.cache
+C:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\tamagotchi_Extreme.AssemblyInfo.cs
+C:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\tamagotchi_Extreme.csproj.CoreCompileInputs.cache
