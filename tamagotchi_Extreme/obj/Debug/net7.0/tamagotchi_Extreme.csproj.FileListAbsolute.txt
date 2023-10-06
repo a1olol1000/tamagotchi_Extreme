@@ -2,3 +2,13 @@ C:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\tamagotchi
 C:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\tamagotchi_Extreme.AssemblyInfoInputs.cache
 C:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\tamagotchi_Extreme.AssemblyInfo.cs
 C:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\tamagotchi_Extreme.csproj.CoreCompileInputs.cache
+c:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\bin\Debug\net7.0\tamagotchi_Extreme.exe
+c:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\bin\Debug\net7.0\tamagotchi_Extreme.deps.json
+c:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\bin\Debug\net7.0\tamagotchi_Extreme.runtimeconfig.json
+c:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\bin\Debug\net7.0\tamagotchi_Extreme.dll
+c:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\bin\Debug\net7.0\tamagotchi_Extreme.pdb
+c:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\tamagotchi_Extreme.dll
+c:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\refint\tamagotchi_Extreme.dll
+c:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\tamagotchi_Extreme.pdb
+c:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\tamagotchi_Extreme.genruntimeconfig.cache
+c:\Users\jj\C#\tamagotchi_Extreme\tamagotchi_Extreme\obj\Debug\net7.0\ref\tamagotchi_Extreme.dll

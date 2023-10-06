@@ -17,6 +17,28 @@ public class Tamagotchiたまごっち
     {
         
     }
+    public void Teach(string word)
+    {
+
+    }
+    public void Tick()
+    {
+
+    }
+    public void PrintStats()
+    {
+
+    }
+    public bool GetAlive(bool isAlive)
+    {
+        return isAlive;
+    }
+    public void ReduceBoredom()
+    {
+        bardom --;
+        bardom --;
+        bardom --;
+    }
 
 }
 // − hunger: int
