@@ -1,33 +1,57 @@
-﻿
-public class Tamagotchiたまごっち
+﻿namespace Tamagotchiたまごっち;
+ class Tamagotchi
 {
+    public string word;
+    bool nullWord=true;
     public int hanger = 0;
     public int bardom =0;
     public List<string> words; 
     public bool isAlive = true;
-    public Random generator;
+    public Random generator = new();
     public string name;
     public void Feed()
     {
         hanger --;
         hanger --;
         hanger --;
+        if (hanger<0)
+        {
+            hanger =0;
+        }
     }
     public void Hi()
     {
-        
+        int length = words.Count();
+        generator.Next(0,length);
+        Console.WriteLine(words[generator.Next(0,length)]);
+        ReduceBoredom();
     }
     public void Teach(string word)
     {
-
+        while (nullWord)
+        {
+            word = Console.ReadLine();
+            if (word == null)
+            {
+                Console.WriteLine("must contain letter");   
+            }
+            else if (word != null)
+            {
+                nullWord = false;
+            }
+        }
+        words.Add(word);
+        ReduceBoredom();
     }
     public void Tick()
     {
-
+        hanger ++;
+        bardom ++;
     }
     public void PrintStats()
     {
-
+        Console.WriteLine(hanger);
+        Console.WriteLine(bardom);
     }
     public bool GetAlive(bool isAlive)
     {
@@ -38,6 +62,10 @@ public class Tamagotchiたまごっち
         bardom --;
         bardom --;
         bardom --;
+        if (bardom< 0)
+        {
+            bardom = 0;
+        }
     }
 
 }
